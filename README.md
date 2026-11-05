@@ -1,4 +1,4 @@
-<img width="2400" height="1080" alt="1000869440" src="https://github.com/user-attachments/assets/dc7617d6-f432-4483-84ff-0e4d2f1ecbdb" />
+<img width="1443" height="1080" alt="1000869441" src="https://github.com/user-attachments/assets/c72a7869-b47a-42cf-8103-8bd164a3e4be" />
 
 # JVDiablo 2
 
