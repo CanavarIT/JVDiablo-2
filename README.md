@@ -1,3 +1,5 @@
+<img width="2400" height="1080" alt="1000869440" src="https://github.com/user-attachments/assets/dc7617d6-f432-4483-84ff-0e4d2f1ecbdb" />
+
 # JVDiablo 2
 
 A Diablo II port for Android written **from scratch in Java**: its own engine, its own file-format decoders, its own software renderer. No third-party game engine and no external libraries for Diablo II formats.
