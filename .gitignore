@@ -1,0 +1,32 @@
+# архивы
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# игровые данные (авторские права, огромный размер)
+*.mpq
+*.wad
+
+# сборка
+build/
+.gradle/
+.cxx/
+*.apk
+*.aab
+*.dex
+*.class
+*.jar
+captures/
+output/
+
+# IDE и локальное
+.idea/
+*.iml
+local.properties
+.androidide/
+.DS_Store
+*.log
+*.hprof
+.acside/
